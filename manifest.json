@@ -9,5 +9,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-bot/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-bot/releases/download/v0.1.1-alpha.2/plugin-bot.zip",
-  "sha256": "6dc68081f9f0a700d19dc928829432fa30156b714fb31850c24d9bb3f39f476f"
+  "sha256": "603afb26a3d0feb15e3b92a02e33cff6fcbcf6f6a3754082638c4847241df083"
 }
