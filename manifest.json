@@ -1,13 +1,13 @@
 {
   "key": "bot",
   "name": "Bot",
-  "version": "0.2.0-alpha.9",
+  "version": "0.2.0-alpha.10",
   "description": "Chat bot with commands, timers, and moderation.",
   "icon": "at-icons:bot",
   "entry": "dist/index.js",
   "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-bot/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-bot/releases/download/v0.2.0-alpha.9/plugin-bot.zip",
-  "sha256": "e9e78fd67de06f5ed280e4068c8f25f96c38d2854a19a3190b1a615f84a0421f"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-bot/releases/download/v0.2.0-alpha.10/plugin-bot.zip",
+  "sha256": "592e3efe64999f011dd647c91e89c19610577008e1ed4a307fcee1dc1b6c4e07"
 }
